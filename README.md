@@ -1,3 +1,3 @@
 # DAQ-Console
-Hello My Name is Slim Shady.
-I stood up.
+
+This is a school project in which we created a DAQ Console
