@@ -1,3 +1,4 @@
-# Blue M
+# Skeleton Code
 
-This is the code for the Blue M Singlezone furnace
+This is the Skeleton Code for the build
+(Download this one!)
